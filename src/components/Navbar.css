@@ -1,0 +1,25 @@
+body{
+    width: 100%;
+}
+
+
+.nav-container{
+    background-color: #131212;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: safe;
+    gap: 100px;
+    height: 3rem;
+    font-size: 1.2rem;
+    border-radius: 0rem 0rem 1rem 1rem;
+    font-weight: 800;
+    min-width: 30rem;
+    padding: 5px;
+}
+
+.link{
+    height: 5rem;
+    width: 5rem;
+    color: white;
+}
