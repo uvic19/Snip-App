@@ -35,7 +35,7 @@ const Snip = () => {
   return (
     <div>
       <input
-        className="p-2 rounded-2xl w-[100%] mt-5 h-14 pl-5 text-[15px]"
+        className="p-2 rounded-2xl w-[100%] mt-5 h-14 pl-5 text-[18px]"
         type="search"
         placeholder="search here"
         value={searchTerm}
